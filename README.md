@@ -6,7 +6,7 @@ Pada pertemuan ke-9 sudah belajar tentang GUI java, dengan menggunakan library `
 
 2. Membuat aplikasi untuk menghitung jumlah hari pada suatu tahun dan bulan (`PenentuJumlahHari.java`), dengan tampilan dibawah ini:
    ![image](https://github.com/user-attachments/assets/f249ce6c-ae24-4d5c-b3df-1a07dcdfddf3)
-   Dengan ketentuan sebagi berikut:
+   <br>Dengan ketentuan sebagi berikut:
    - Buatlah sebuah class HitungHari yang mempunyai method hitung(), yang berfungsi untuk melakukan proses untuk mendapatkan jumlah hari dari inputan yang diberikan oleh user (Tahun dan Bulan)
    - Panggil method Hitung() tersebut pada class `PenentuJumlahHari.java`
    - Button hapus berfungsi untuk mengosongkan tahun, bulan dan juga hasil perhitungan
