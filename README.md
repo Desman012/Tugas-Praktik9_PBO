@@ -12,7 +12,8 @@ Pada pertemuan ke-9 sudah belajar tentang GUI java, dengan menggunakan library `
    - Button hapus berfungsi untuk mengosongkan tahun, bulan dan juga hasil perhitungan
    - Tombol simpan berfungsi untuk menyimpan hasil perhitungan ke dalam bentuk `.txt`
    - Hasil ketika running
-     ![image](https://github.com/user-attachments/assets/13218b43-d2a1-4a7d-9c27-310097b2d18b)
+   
+   ![image](https://github.com/user-attachments/assets/13218b43-d2a1-4a7d-9c27-310097b2d18b)
 
 ## Cara Mengakses:
 1. Untuk mengakses file java bisa akses pada folder `src`
